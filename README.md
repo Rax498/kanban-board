@@ -56,7 +56,7 @@ open index.html
 ## 📸 Screenshots
 
 ### 🖼 Light Mode
-![Light Mode Screenshot](assets/screenshot-light.png)
+![Light Mode Screenshot](assets/Screenshot-light.png)
 
 ### 🌙 Dark Mode
 ![Dark Mode Screenshot](assets/screenshot-dark.png)
