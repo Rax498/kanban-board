@@ -110,7 +110,7 @@ You can easily modify:
 
 ## 🌐 Live Demo
 
-[🔗 View Live Project](https://github.com/Rax498/kanban-board/)
+[🔗 View Live Project](https://rax498.github.io/kanban-board/)
 
 
 ---
